@@ -6,7 +6,7 @@
 #
 # Created:     07/08/2014
 # Copyright:   (c) Rivan 2015
-# Licence:     All rights reserved.
+# Licence:     GNU GENERAL PUBLIC LICENSE.
 #-------------------------------------------------------------------------------
 
 try:

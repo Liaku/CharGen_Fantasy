@@ -6,7 +6,7 @@
 #
 # Created:     10/03/2014
 # Copyright:   (c) Rivan 2015
-# Licence:     All rights reserved.
+# Licence:     GNU GENERAL PUBLIC LICENSE.
 #-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
